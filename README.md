@@ -1,2 +1,3 @@
 # Haaga-Helia
-Haaga-Heliassa tehtävät harjoitukset
+
+Haaga-Heliassa tehtävät harjoitukset!
